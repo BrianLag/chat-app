@@ -2,7 +2,7 @@
 .Contact {
   padding: 1em;
   background: #555;
-  width: 300px;
+  width: 240px;
   display: flex;
   align-items: center;
 }
@@ -45,4 +45,3 @@
 .Contact .status .status-offline {
   background: #f4511e;
 }
-
